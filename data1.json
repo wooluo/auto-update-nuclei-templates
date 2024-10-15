@@ -51434,5 +51434,14 @@
     "2d-tag-cloud-widget-by-sujin.yaml": "2024-10-13 02:32:27",
     "order-attachments-for-woocommerce.yaml": "2024-10-13 02:32:27",
     "paypal-gift-certificate.yaml": "2024-10-13 02:32:27",
-    "bot-for-telegram-on-woocommerce.yaml": "2024-10-13 02:32:27"
+    "bot-for-telegram-on-woocommerce.yaml": "2024-10-13 02:32:27",
+    "timesqli.yaml": "2024-10-15 02:29:49",
+    "x-forwarded.yaml": "2024-10-15 02:29:49",
+    "openRedirect.yaml": "2024-10-15 02:29:49",
+    "api-exposures.yaml": "2024-10-15 02:29:49",
+    "apache_traversal.yaml": "2024-10-15 02:29:49",
+    "put.yaml": "2024-10-15 02:29:49",
+    "sonicwall-shellshock.yaml": "2024-10-15 02:29:49",
+    "errsqli.yaml": "2024-10-15 02:29:49",
+    "extendify.yaml": "2024-10-15 02:29:49"
 }
