@@ -22,18 +22,29 @@
 | CVE-2018 | 451 |
 | CVE-2019 | 522 |
 | CVE-2020 | 610 |
-| CVE-2021 | 1743 |
-| CVE-2022 | 2477 |
-| CVE-2023 | 4789 |
-| CVE-2024 | 5820 |
-| Other | 25008 |
+| CVE-2021 | 1745 |
+| CVE-2022 | 2476 |
+| CVE-2023 | 4791 |
+| CVE-2024 | 5818 |
+| Other | 25017 |
 ## 近几天数量变化情况
-|2024-10-15 | 2024-10-16 | 2024-10-17 | 2024-10-18 | 2024-10-19 | 2024-10-20 | 2024-10-21|
+|2024-10-16 | 2024-10-17 | 2024-10-18 | 2024-10-19 | 2024-10-20 | 2024-10-21 | 2024-10-22|
 |--- | ------ | ------ | ------ | ------ | ------ | ---|
-|43150 | 43182 | 43385 | 43447 | 43610 | 43796 | 43800|
+|43182 | 43385 | 43447 | 43610 | 43796 | 43800 | 43810|
 ## 最近新增文件
 | templates name | 
 | --- |
-| TVE-2024-105272055.yaml |
-| TVE-2024-105272140.yaml |
-| TVE-2024-105131024.yaml |
+| identification-auth-failures.yaml |
+| sato-default-login.yaml |
+| voipmonitorrce-220331-222339.yaml |
+| TVE-2024-105272130.yaml |
+| wp-footnote-xss.yaml |
+| injection.yaml |
+| logging-monitoring-failures.yaml |
+| security-misconfiguration.yaml |
+| insecure-design.yaml |
+| cryptographic-failures.yaml |
+| application-pass-xss.yaml |
+| software-integrity-failures.yaml |
+| Server-Side-Request-Forgery.yaml |
+| broken-access-control.yaml |

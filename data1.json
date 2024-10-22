@@ -52006,5 +52006,19 @@
     "CVE-2023-6243.yaml": "2024-10-20 02:32:08",
     "TVE-2024-105272055.yaml": "2024-10-21 02:28:43",
     "TVE-2024-105272140.yaml": "2024-10-21 02:28:43",
-    "TVE-2024-105131024.yaml": "2024-10-21 02:28:43"
+    "TVE-2024-105131024.yaml": "2024-10-21 02:28:43",
+    "identification-auth-failures.yaml": "2024-10-22 02:26:53",
+    "sato-default-login.yaml": "2024-10-22 02:26:53",
+    "voipmonitorrce-220331-222339.yaml": "2024-10-22 02:26:53",
+    "TVE-2024-105272130.yaml": "2024-10-22 02:26:53",
+    "wp-footnote-xss.yaml": "2024-10-22 02:26:53",
+    "injection.yaml": "2024-10-22 02:26:53",
+    "logging-monitoring-failures.yaml": "2024-10-22 02:26:53",
+    "security-misconfiguration.yaml": "2024-10-22 02:26:53",
+    "insecure-design.yaml": "2024-10-22 02:26:53",
+    "cryptographic-failures.yaml": "2024-10-22 02:26:53",
+    "application-pass-xss.yaml": "2024-10-22 02:26:53",
+    "software-integrity-failures.yaml": "2024-10-22 02:26:53",
+    "Server-Side-Request-Forgery.yaml": "2024-10-22 02:26:53",
+    "broken-access-control.yaml": "2024-10-22 02:26:53"
 }
