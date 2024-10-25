@@ -21,109 +21,64 @@
 | CVE-2017 | 404 |
 | CVE-2018 | 451 |
 | CVE-2019 | 523 |
-| CVE-2020 | 608 |
+| CVE-2020 | 610 |
 | CVE-2021 | 1745 |
 | CVE-2022 | 2477 |
-| CVE-2023 | 4801 |
-| CVE-2024 | 5862 |
-| Other | 25058 |
+| CVE-2023 | 4804 |
+| CVE-2024 | 5895 |
+| Other | 25064 |
 ## 近几天数量变化情况
-|2024-10-17 | 2024-10-18 | 2024-10-19 | 2024-10-20 | 2024-10-21 | 2024-10-22 | 2024-10-24|
+|2024-10-18 | 2024-10-19 | 2024-10-20 | 2024-10-21 | 2024-10-22 | 2024-10-24 | 2024-10-25|
 |--- | ------ | ------ | ------ | ------ | ------ | ---|
-|43385 | 43447 | 43610 | 43796 | 43800 | 43810 | 43905|
+|43447 | 43610 | 43796 | 43800 | 43810 | 43905 | 43949|
 ## 最近新增文件
 | templates name | 
 | --- |
-| CVE-2024-9231.yaml |
-| CVE-2024-10189.yaml |
-| CVE-2024-49621.yaml |
-| CVE-2024-49326.yaml |
-| CVE-2024-49605.yaml |
-| CVE-2024-49335.yaml |
-| CVE-2024-8852.yaml |
-| CVE-2024-10250.yaml |
-| CVE-2024-49617.yaml |
-| CVE-2024-49324.yaml |
-| CVE-2024-10003.yaml |
-| CVE-2024-8542.yaml |
-| CVE-2024-35584.yaml |
-| CVE-2024-49331.yaml |
-| CVE-2024-9588.yaml |
-| CVE-2024-9947.yaml |
-| CVE-2024-9927.yaml |
-| CVE-2024-49604.yaml |
-| CVE-2024-49330.yaml |
-| CVE-2024-9627.yaml |
-| CVE-2024-49607.yaml |
-| CVE-2024-10002.yaml |
-| CVE-2024-9591.yaml |
-| CVE-2024-22476.yaml |
-| CVE-2024-49327.yaml |
-| CVE-2024-49622.yaml |
-| CVE-2024-9829.yaml |
-| CVE-2024-49611.yaml |
-| CVE-2024-49328.yaml |
-| CVE-2024-10045.yaml |
-| CVE-2024-9541.yaml |
-| CVE-2024-49610.yaml |
-| CVE-2024-9617.yaml |
-| CVE-2024-49629.yaml |
-| CVE-2024-9589.yaml |
-| CVE-2024-9590.yaml |
-| CVE-2024-9530.yaml |
-| CVE-2024-9583.yaml |
-| CVE-2024-48914.yaml |
-| CVE-2024-8500.yaml |
-| CVE-2024-49332.yaml |
-| CVE-2024-49325.yaml |
-| CVE-2024-49329.yaml |
-| vendure.yaml |
-| rover-idx.yaml |
-| ticket_support_script.yaml |
-| olympic-panel.yaml |
-| woocommerce-order-proposal.yaml |
-| photokit.yaml |
-| woostagram-connect.yaml |
-| CNVD-2024-38747.yaml |
-| wp-custom-taxonomy-meta.yaml |
-| danswer-panel.yaml |
-| plms.yaml |
-| make_an_offer_widget.yaml |
-| apa-banner-slider.yaml |
-| rest-api-fns.yaml |
-| redpanda-console.yaml |
-| wp-custom-taxonomy-image.yaml |
-| wp-dropbox-dropins.yaml |
-| gradio-detect.yaml |
-| apa-register-newsletter-form.yaml |
-| yacht_listing_script.yaml |
-| affiliator-lite.yaml |
-| back-link-tracker.yaml |
-| food_delivery_script.yaml |
-| transients-manager.yaml |
-| doris-default-login.yaml |
-| green-wp-telegram-bot-by-teplitsa.yaml |
-| lollms-webui-detect.yaml |
-| endless-posts-navigation.yaml |
-| callback_widget.yaml |
-| fundraising_script.yaml |
-| salesforce-b2c-commerce-webdav.yaml |
-| nicebackgrounds.yaml |
-| product-websites-showcase.yaml |
-| googledrive-folder-list.yaml |
-| news-kit-elementor-addons.yaml |
-| nioland.yaml |
-| rce-dev.yaml |
-| sovratec-case-management.yaml |
-| profilepress-pro.yaml |
-| photo-gallery-builder.yaml |
-| CVE-2023-39560.yaml |
-| CVE-2023-40748.yaml |
-| CVE-2023-40750.yaml |
-| CVE-2023-40755.yaml |
-| CVE-2023-40751.yaml |
-| CVE-2023-40753.yaml |
-| CVE-2023-38040.yaml |
-| CVE-2023-40749.yaml |
-| CVE-2023-40752.yaml |
-| CVE-2023-43373.yaml |
+| CVE-2024-49625.yaml |
+| CVE-2024-8959.yaml |
+| CVE-2024-49626.yaml |
+| CVE-2024-9374.yaml |
+| CVE-2024-9650.yaml |
+| CVE-2024-49608.yaml |
+| CVE-2024-8667.yaml |
+| CVE-2024-49620.yaml |
+| CVE-2024-9865.yaml |
+| CVE-2024-49609.yaml |
+| CVE-2024-9531.yaml |
+| CVE-2024-49612.yaml |
+| CVE-2024-8717.yaml |
+| CVE-2024-9864.yaml |
+| CVE-2024-49630.yaml |
+| CVE-2024-49606.yaml |
+| CVE-2024-9214.yaml |
+| CVE-2024-10050.yaml |
+| CVE-2024-9943.yaml |
+| CVE-2024-49618.yaml |
+| CVE-2024-49615.yaml |
+| CVE-2024-10176.yaml |
+| CVE-2024-49616.yaml |
+| CVE-2024-49624.yaml |
+| CVE-2024-10180.yaml |
+| CVE-2024-49614.yaml |
+| CVE-2024-49623.yaml |
+| CVE-2024-49613.yaml |
+| CVE-2024-49627.yaml |
+| CVE-2024-49628.yaml |
+| CVE-2024-49619.yaml |
+| ferma-ru-net-checkout.yaml |
+| social-link-groups.yaml |
+| cf7-repeatable-fields.yaml |
+| google-map-locations.yaml |
+| sermonaudio-widgets.yaml |
+| wp-image-seo.yaml |
+| author-discussion.yaml |
+| sw-contact-form.yaml |
+| duplicate-title-validate.yaml |
+| advanced-advertising-system.yaml |
+| safetymails-forms.yaml |
+| gerryworks-post-by-mail.yaml |
+| rate-own-post.yaml |
+| shipyaari-shipping-managment.yaml |
+| simple-code-insert-shortcode.yaml |
+| mytweetlinks.yaml |
+| CVE-2023-40931.yaml |
