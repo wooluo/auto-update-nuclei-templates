@@ -20,45 +20,56 @@
 | CVE-2016 | 252 |
 | CVE-2017 | 404 |
 | CVE-2018 | 451 |
-| CVE-2019 | 523 |
-| CVE-2020 | 608 |
-| CVE-2021 | 1744 |
-| CVE-2022 | 2475 |
-| CVE-2023 | 4805 |
-| CVE-2024 | 5910 |
-| Other | 25081 |
+| CVE-2019 | 522 |
+| CVE-2020 | 610 |
+| CVE-2021 | 1747 |
+| CVE-2022 | 2477 |
+| CVE-2023 | 4803 |
+| CVE-2024 | 5937 |
+| Other | 25090 |
 ## 近几天数量变化情况
-|2024-10-19 | 2024-10-20 | 2024-10-21 | 2024-10-22 | 2024-10-24 | 2024-10-25 | 2024-10-26|
+|2024-10-20 | 2024-10-21 | 2024-10-22 | 2024-10-24 | 2024-10-25 | 2024-10-26 | 2024-10-27|
 |--- | ------ | ------ | ------ | ------ | ------ | ---|
-|43610 | 43796 | 43800 | 43810 | 43905 | 43949 | 43977|
+|43796 | 43800 | 43810 | 43905 | 43949 | 43977 | 44017|
 ## 最近新增文件
 | templates name | 
 | --- |
-| CVE-2024-9488.yaml |
-| CVE-2024-10341.yaml |
-| CVE-2024-9235.yaml |
-| CVE-2024-9628.yaml |
-| CVE-2024-10150.yaml |
-| CVE-2024-10342.yaml |
-| CVE-2024-10374.yaml |
-| CVE-2024-10016.yaml |
-| CVE-2024-9302.yaml |
-| CVE-2024-9109.yaml |
-| CVE-2024-9686.yaml |
-| CVE-2024-9607.yaml |
-| CVE-2024-10011.yaml |
-| CVE-2024-10148.yaml |
-| CVE-2024-9598.yaml |
-| CVE-2024-9630.yaml |
-| CVE-2024-8666.yaml |
-| CVE-2024-10112.yaml |
-| CVE-2024-10343.yaml |
-| bamazoo-button-generator.yaml |
-| beek-widget-extention.yaml |
-| league-of-legends-shortcodes.yaml |
-| file-upload-types.yaml |
-| wp-awesome-buttons.yaml |
-| shoutcast-icecast-html5-radio-player.yaml |
-| wps-telegram-chat.yaml |
-| order-notification-for-telegram.yaml |
-| simple-news.yaml |
+| CVE-2024-9772.yaml |
+| CVE-2024-9613.yaml |
+| CVE-2024-9116.yaml |
+| CVE-2024-10091.yaml |
+| CVE-2024-9932.yaml |
+| CVE-2024-9637.yaml |
+| CVE-2024-9454.yaml |
+| CVE-2024-9584.yaml |
+| CVE-2024-10092.yaml |
+| CVE-2024-9890.yaml |
+| CVE-2024-9853.yaml |
+| CVE-2024-9930.yaml |
+| CVE-2024-9626.yaml |
+| CVE-2024-9475.yaml |
+| CVE-2024-9462.yaml |
+| CVE-2024-10117.yaml |
+| CVE-2024-9933.yaml |
+| CVE-2024-8870.yaml |
+| CVE-2024-10402.yaml |
+| CVE-2024-9642.yaml |
+| CVE-2024-10357.yaml |
+| CVE-2024-9456.yaml |
+| CVE-2024-8392.yaml |
+| CVE-2024-9501.yaml |
+| CVE-2024-9585.yaml |
+| CVE-2024-9967.yaml |
+| CVE-2024-9931.yaml |
+| zemanta.yaml |
+| sogrid.yaml |
+| wux-blog-editor.yaml |
+| uix-shortcodes.yaml |
+| wp-awesome-login.yaml |
+| user-toolkit.yaml |
+| idsk-toolkit.yaml |
+| editor-custom-color-palette.yaml |
+| sb-core.yaml |
+| wp-show-more.yaml |
+| pripre.yaml |
+| monkee-boy-wp-essentials.yaml |
