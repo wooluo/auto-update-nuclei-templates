@@ -53372,5 +53372,8 @@
     "hb-audio-gallery.yaml": "2024-11-15 02:30:58",
     "bu-slideshow.yaml": "2024-11-15 02:30:58",
     "simplistic-seo.yaml": "2024-11-15 02:30:58",
-    "CVE-2021-45096.yaml": "2024-11-15 02:30:58"
+    "CVE-2021-45096.yaml": "2024-11-15 02:30:58",
+    "detect-eas.yaml": "2024-11-16 02:29:49",
+    "uvicorn-header-injection.yaml": "2024-11-16 02:29:49",
+    "sap-gui-xss.yaml": "2024-11-16 02:29:49"
 }
