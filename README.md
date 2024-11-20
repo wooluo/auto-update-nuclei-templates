@@ -21,33 +21,32 @@
 | CVE-2017 | 406 |
 | CVE-2018 | 453 |
 | CVE-2019 | 524 |
-| CVE-2020 | 610 |
-| CVE-2021 | 1746 |
-| CVE-2022 | 2482 |
-| CVE-2023 | 4811 |
-| CVE-2024 | 6720 |
-| Other | 25749 |
+| CVE-2020 | 611 |
+| CVE-2021 | 1747 |
+| CVE-2022 | 2483 |
+| CVE-2023 | 4807 |
+| CVE-2024 | 6732 |
+| Other | 25750 |
 ## 近几天数量变化情况
-|2024-11-13 | 2024-11-14 | 2024-11-15 | 2024-11-16 | 2024-11-17 | 2024-11-18 | 2024-11-19|
+|2024-11-14 | 2024-11-15 | 2024-11-16 | 2024-11-17 | 2024-11-18 | 2024-11-19 | 2024-11-20|
 |--- | ------ | ------ | ------ | ------ | ------ | ---|
-|44922 | 45017 | 45132 | 45036 | 45458 | 45459 | 45480|
+|45017 | 45132 | 45036 | 45458 | 45459 | 45480 | 45492|
 ## 最近新增文件
 | templates name | 
 | --- |
-| CVE-2024-51483.yaml |
-| CVE-2024-8673.yaml |
-| CVE-2022-48166.yaml |
-| CVE-2022-44356.yaml |
-| CVE-2022-48164.yaml |
-| alfresco-panel.yaml |
-| flexmls-detect.yaml |
-| alternc-panel.yaml |
-| akuiteo-panel.yaml |
-| alamos-panel.yaml |
-| thruk-panel.yaml |
-| fortinet-fgfm-detect.yaml |
-| changedetection.yaml |
-| amazon-ecs-defualt-page.yaml |
-| anmelden-panel.yaml |
-| wl-wn533a8_firmware.yaml |
-| CVE-2011-4969.yaml |
+| CVE-2024-10390.yaml |
+| CVE-2024-10268.yaml |
+| CVE-2024-11038.yaml |
+| CVE-2024-11069.yaml |
+| CVE-2024-11194.yaml |
+| CVE-2024-9777.yaml |
+| CVE-2024-11098.yaml |
+| CVE-2024-10388.yaml |
+| CVE-2024-9830.yaml |
+| CVE-2024-11224.yaml |
+| CVE-2024-11036.yaml |
+| CVE-2024-11198.yaml |
+| CVE-2024-11195.yaml |
+| CVE-2024-10486.yaml |
+| wpb-popup-for-contact-form-7.yaml |
+| elfsight-telegram-chat-cc.yaml |
