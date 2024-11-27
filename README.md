@@ -20,22 +20,50 @@
 | CVE-2016 | 254 |
 | CVE-2017 | 406 |
 | CVE-2018 | 453 |
-| CVE-2019 | 525 |
-| CVE-2020 | 609 |
-| CVE-2021 | 1746 |
-| CVE-2022 | 2481 |
-| CVE-2023 | 4811 |
-| CVE-2024 | 6918 |
-| Other | 25856 |
+| CVE-2019 | 524 |
+| CVE-2020 | 611 |
+| CVE-2021 | 1747 |
+| CVE-2022 | 2483 |
+| CVE-2023 | 4810 |
+| CVE-2024 | 6941 |
+| Other | 25863 |
 ## 近几天数量变化情况
-|2024-11-20 | 2024-11-21 | 2024-11-22 | 2024-11-23 | 2024-11-24 | 2024-11-25 | 2024-11-26|
+|2024-11-21 | 2024-11-22 | 2024-11-23 | 2024-11-24 | 2024-11-25 | 2024-11-26 | 2024-11-27|
 |--- | ------ | ------ | ------ | ------ | ------ | ---|
-|45492 | 45518 | 45593 | 45718 | 45785 | 45786 | 45784|
+|45518 | 45593 | 45718 | 45785 | 45786 | 45784 | 45817|
 ## 最近新增文件
 | templates name | 
 | --- |
-| crlfi.yaml |
-| error-sqli.yaml |
-| Command Injection.yaml |
-| oob-sqli-2.yaml |
-| oob-sqli-1.yaml |
+| CVE-2024-9461.yaml |
+| CVE-2024-11119.yaml |
+| CVE-2024-10857.yaml |
+| CVE-2024-11202.yaml |
+| CVE-2024-11091.yaml |
+| CVE-2024-11342.yaml |
+| CVE-2024-10634.yaml |
+| CVE-2024-8236.yaml |
+| CVE-2024-10542.yaml |
+| CVE-2024-8899.yaml |
+| CVE-2024-11032.yaml |
+| CVE-2024-9504.yaml |
+| CVE-2024-10632.yaml |
+| CVE-2024-11024.yaml |
+| CVE-2024-10781.yaml |
+| CVE-2024-10570.yaml |
+| CVE-2024-10677.yaml |
+| CVE-2024-11002.yaml |
+| CVE-2024-10308.yaml |
+| CVE-2024-11192.yaml |
+| CVE-2024-9170.yaml |
+| CVE-2024-11418.yaml |
+| CVE-2024-10729.yaml |
+| CVE-2024-10579.yaml |
+| woocommerce-booking.yaml |
+| bluetrait-event-viewer.yaml |
+| skt-nurcaptcha.yaml |
+| cm-header-footer-script-loader.yaml |
+| nokaut-offers-box.yaml |
+| cm-business-directory.yaml |
+| bne-gallery-extended.yaml |
+| twitter-posts.yaml |
+| CVE-2023-7297.yaml |
