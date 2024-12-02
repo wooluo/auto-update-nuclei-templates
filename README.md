@@ -20,22 +20,23 @@
 | CVE-2016 | 254 |
 | CVE-2017 | 406 |
 | CVE-2018 | 453 |
-| CVE-2019 | 524 |
+| CVE-2019 | 525 |
 | CVE-2020 | 611 |
-| CVE-2021 | 1745 |
-| CVE-2022 | 2484 |
-| CVE-2023 | 4809 |
+| CVE-2021 | 1748 |
+| CVE-2022 | 2483 |
+| CVE-2023 | 4812 |
 | CVE-2024 | 7072 |
-| Other | 25954 |
+| Other | 25955 |
 ## 近几天数量变化情况
-|2024-11-25 | 2024-11-26 | 2024-11-27 | 2024-11-28 | 2024-11-29 | 2024-11-30 | 2024-12-01|
+|2024-11-26 | 2024-11-27 | 2024-11-28 | 2024-11-29 | 2024-11-30 | 2024-12-01 | 2024-12-02|
 |--- | ------ | ------ | ------ | ------ | ------ | ---|
-|45786 | 45784 | 45817 | 46007 | 46027 | 46029 | 46037|
+|45784 | 45817 | 46007 | 46027 | 46029 | 46037 | 46044|
 ## 最近新增文件
 | templates name | 
 | --- |
-| CVE-2024-11252.yaml |
-| outdated-software-versions.yaml |
-| cors-misconfiguration.yaml |
-| http-header-misconfiguration.yaml |
-| CVE-2020-24881.yaml |
+| CVE-2024-9186.yaml |
+| yonyou-yonbip-lfi.yaml |
+| fronsetiav-xss.yaml |
+| infoblox-nios-panel.yaml |
+| dufs-detect.yaml |
+| rce-user-agent-shell-shock.yaml |
