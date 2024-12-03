@@ -54289,5 +54289,8 @@
     "fronsetiav-xss.yaml": "2024-12-02 02:36:48",
     "infoblox-nios-panel.yaml": "2024-12-02 02:36:48",
     "dufs-detect.yaml": "2024-12-02 02:36:48",
-    "rce-user-agent-shell-shock.yaml": "2024-12-02 02:36:48"
+    "rce-user-agent-shell-shock.yaml": "2024-12-02 02:36:48",
+    "CVE-2022-24819.yaml": "2024-12-03 02:35:32",
+    "blue-yonder-panel.yaml": "2024-12-03 02:35:33",
+    "CVE-20200924a(1).yaml": "2024-12-03 02:35:33"
 }
