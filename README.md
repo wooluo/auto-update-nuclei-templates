@@ -21,61 +21,33 @@
 | CVE-2017 | 406 |
 | CVE-2018 | 453 |
 | CVE-2019 | 525 |
-| CVE-2020 | 611 |
-| CVE-2021 | 1747 |
-| CVE-2022 | 2487 |
-| CVE-2023 | 4810 |
-| CVE-2024 | 7116 |
-| Other | 25986 |
+| CVE-2020 | 612 |
+| CVE-2021 | 1746 |
+| CVE-2022 | 2483 |
+| CVE-2023 | 4811 |
+| CVE-2024 | 7129 |
+| Other | 25994 |
 ## 近几天数量变化情况
-|2024-11-29 | 2024-11-30 | 2024-12-01 | 2024-12-02 | 2024-12-03 | 2024-12-04 | 2024-12-05|
+|2024-11-30 | 2024-12-01 | 2024-12-02 | 2024-12-03 | 2024-12-04 | 2024-12-05 | 2024-12-06|
 |--- | ------ | ------ | ------ | ------ | ------ | ---|
-|46027 | 46029 | 46037 | 46044 | 46042 | 46079 | 46120|
+|46029 | 46037 | 46044 | 46042 | 46079 | 46120 | 46138|
 ## 最近新增文件
 | templates name | 
 | --- |
-| CVE-2024-11293.yaml |
-| CVE-2024-10832.yaml |
-| CVE-2024-11643.yaml |
-| CVE-2024-10952.yaml |
-| CVE-2024-10885.yaml |
-| CVE-2024-11897.yaml |
-| CVE-2024-11814.yaml |
-| CVE-2024-5020.yaml |
-| CVE-2024-11807.yaml |
-| CVE-2024-10787.yaml |
-| CVE-2024-11747.yaml |
-| CVE-2024-10663.yaml |
-| CVE-2024-12099.yaml |
-| CVE-2024-11903.yaml |
-| CVE-2024-11880.yaml |
-| CVE-2024-11813.yaml |
-| CVE-2024-49380.yaml |
-| CVE-2024-11466.yaml |
-| CVE-2024-11952.yaml |
-| CVE-2024-10664.yaml |
-| CVE-2024-11854.yaml |
-| CVE-2024-10587.yaml |
-| CVE-2024-10567.yaml |
-| CVE-2024-11935.yaml |
-| CVE-2024-8962.yaml |
-| CVE-2024-11093.yaml |
-| CVE-2024-11769.yaml |
-| CVE-2022-31470.yaml |
-| responsive-youtube-videos.yaml |
-| email-address-obfuscation.yaml |
-| mightyforms.yaml |
-| wp-job-manager-companies.yaml |
-| easy-facebook-likebox-premium.yaml |
-| dp-intro-tours.yaml |
-| listdom.yaml |
-| posti-shipping.yaml |
-| dollie.yaml |
-| order-status-for-woocommerce.yaml |
-| wp-ecards-invites.yaml |
-| amin-chat-button.yaml |
-| sg-helper.yaml |
-| b-testimonial.yaml |
-| webmail.yaml |
-| allaccessible.yaml |
-| CVE-2023-6978.yaml |
+| CVE-2024-10178.yaml |
+| CVE-2024-10937.yaml |
+| CVE-2024-11420.yaml |
+| CVE-2024-11324.yaml |
+| CVE-2024-11341.yaml |
+| CVE-2024-10777.yaml |
+| CVE-2024-10056.yaml |
+| CVE-2024-11429.yaml |
+| CVE-2024-10848.yaml |
+| CVE-2024-10881.yaml |
+| CVE-2024-11779.yaml |
+| accounting-for-woocommerce.yaml |
+| azure-storage-sas-leak.yaml |
+| newsmunch.yaml |
+| smb-signing.yaml |
+| wip-woocarousel-lite.yaml |
+| eelv-redirection.yaml |
