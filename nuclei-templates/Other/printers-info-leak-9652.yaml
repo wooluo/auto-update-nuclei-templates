@@ -1,16 +1,15 @@
 id: printers-info-leak
-
 info:
   name: Unauthorized Printer Access
   author: pussycat0x
   severity: info
-  tags: network,iot
+  tags: network,iot,printer
   reference: https://book.hacktricks.xyz/pentesting/9100-pjl
 network:
   - inputs:
       - data: "@PJL INFO STATUS\n"
     host:
-      - "{{Hostname}}:9100"
+      - "{{Host}}:9100"
     matchers:
       - type: word
         words:
