@@ -7,7 +7,7 @@ info:
     - https://sidekiq.org
     - https://github.com/mperham/sidekiq
   severity: medium
-  tags: unauth,panel,sidekiq
+  tags: unauth
 
 requests:
   - method: GET

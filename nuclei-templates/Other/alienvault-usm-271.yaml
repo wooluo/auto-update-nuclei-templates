@@ -4,7 +4,7 @@ info:
   name: AlienVault USM
   author: dhiyaneshDK
   severity: info
-  tags: panel,alienvault
+  tags: panel
   metadata:
     shodan-query: 'http.title:"AlienVault USM"'
 
