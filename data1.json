@@ -57334,5 +57334,8 @@
     "CVE-2024-12517.yaml": "2024-12-15 02:51:30",
     "CVE-2022-24259.yaml": "2024-12-16 02:43:06",
     "wp_go_maps.yaml": "2024-12-16 02:43:06",
-    "hue-wireless-lighting.yaml": "2024-12-16 02:43:06"
+    "hue-wireless-lighting.yaml": "2024-12-16 02:43:06",
+    "shenzhoushuma-DCME-320-online_list-fileread.yaml": "2024-12-17 02:38:10",
+    "CVE-2024-36404.yaml": "2024-12-17 02:38:10",
+    "CVE-2024-38819.yaml": "2024-12-17 02:38:10"
 }
