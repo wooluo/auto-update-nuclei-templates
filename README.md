@@ -19,21 +19,51 @@
 | CVE-2015 | 533 |
 | CVE-2016 | 257 |
 | CVE-2017 | 410 |
-| CVE-2018 | 525 |
-| CVE-2019 | 760 |
-| CVE-2020 | 1095 |
-| CVE-2021 | 2202 |
-| CVE-2022 | 2966 |
-| CVE-2023 | 5144 |
-| CVE-2024 | 7620 |
-| Other | 26273 |
+| CVE-2018 | 524 |
+| CVE-2019 | 759 |
+| CVE-2020 | 1094 |
+| CVE-2021 | 2203 |
+| CVE-2022 | 2967 |
+| CVE-2023 | 5143 |
+| CVE-2024 | 7637 |
+| Other | 26285 |
 ## 近几天数量变化情况
-|2024-12-11 | 2024-12-12 | 2024-12-13 | 2024-12-14 | 2024-12-15 | 2024-12-16 | 2024-12-17|
+|2024-12-12 | 2024-12-13 | 2024-12-14 | 2024-12-15 | 2024-12-16 | 2024-12-17 | 2024-12-18|
 |--- | ------ | ------ | ------ | ------ | ------ | ---|
-|48557 | 48575 | 48720 | 48948 | 49025 | 49026 | 49031|
+|48575 | 48720 | 48948 | 49025 | 49026 | 49031 | 49058|
 ## 最近新增文件
 | templates name | 
 | --- |
-| shenzhoushuma-DCME-320-online_list-fileread.yaml |
-| CVE-2024-36404.yaml |
-| CVE-2024-38819.yaml |
+| etouch-v2-sqli-7265.yaml |
+| sikshya.yaml |
+| woo-additional-fees-on-checkout-wordpress.yaml |
+| wp-base-booking-of-appointments-services-and-events.yaml |
+| sophos-fw-version-detect-10396.yaml |
+| portfolio-pro.yaml |
+| tpg-get-posts.yaml |
+| ruijie-networks-rce-9947.yaml |
+| wc-sms.yaml |
+| slope-widgets.yaml |
+| support-x.yaml |
+| stop-registration-spam.yaml |
+| CVE-2024-9654.yaml |
+| CVE-2024-12024.yaml |
+| CVE-2024-12127.yaml |
+| CVE-2024-11905.yaml |
+| CVE-2024-11294.yaml |
+| CVE-2024-8326.yaml |
+| CVE-2024-10356.yaml |
+| CVE-2024-12219.yaml |
+| CVE-2024-11906.yaml |
+| CVE-2024-11900.yaml |
+| CVE-2024-12395.yaml |
+| CVE-2024-11902.yaml |
+| CVE-2024-12293.yaml |
+| CVE-2024-9624.yaml |
+| CVE-2024-24116.yaml |
+| CVE-2024-12443.yaml |
+| CVE-2024-12469.yaml |
+| CVE-2024-12220.yaml |
+| CVE-2024-12239.yaml |
+| CVE-2024-11280.yaml |
+| CVE-2024-12601.yaml |
