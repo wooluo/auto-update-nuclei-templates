@@ -4,7 +4,7 @@ info:
   name: Web Editors
   author: princechaddha,bernardofsr
   severity: info
-  tags: panel,webeditors
+  tags: panel
 
 requests:
   - method: GET
