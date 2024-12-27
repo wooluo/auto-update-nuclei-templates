@@ -18,36 +18,29 @@
 | CVE-2014 | 435 |
 | CVE-2015 | 533 |
 | CVE-2016 | 257 |
-| CVE-2017 | 410 |
+| CVE-2017 | 409 |
 | CVE-2018 | 525 |
-| CVE-2019 | 760 |
-| CVE-2020 | 1096 |
-| CVE-2021 | 2202 |
-| CVE-2022 | 2965 |
+| CVE-2019 | 759 |
+| CVE-2020 | 1095 |
+| CVE-2021 | 2201 |
+| CVE-2022 | 2966 |
 | CVE-2023 | 5144 |
-| CVE-2024 | 7974 |
-| Other | 26567 |
+| CVE-2024 | 7978 |
+| Other | 26537 |
 ## 近几天数量变化情况
-|2024-12-20 | 2024-12-21 | 2024-12-22 | 2024-12-23 | 2024-12-24 | 2024-12-25 | 2024-12-26|
+|2024-12-21 | 2024-12-22 | 2024-12-23 | 2024-12-24 | 2024-12-25 | 2024-12-26 | 2024-12-27|
 |--- | ------ | ------ | ------ | ------ | ------ | ---|
-|49152 | 49550 | 49584 | 49588 | 49618 | 49668 | 49679|
+|49550 | 49584 | 49588 | 49618 | 49668 | 49679 | 49650|
 ## 最近新增文件
 | templates name | 
 | --- |
-| drupal-node.yaml |
-| wte-elementor-widgets.yaml |
-| dlogic.yaml |
-| woo-point-of-sale.yaml |
-| marketking-multivendor-marketplace-for-woocommerce.yaml |
-| plone-cms-detect-9605.yaml |
-| youdatasum-CPAS-downPlugs-downloadfile.yaml |
-| CVE-2024-11223.yaml |
-| CVE-2024-12190.yaml |
-| CVE-2024-12413.yaml |
-| CVE-2024-12272.yaml |
-| CVE-2024-11281.yaml |
-| CVE-2024-12335.yaml |
-| CVE-2024-10862.yaml |
-| CVE-2024-12032.yaml |
-| CVE-2024-12428.yaml |
-| CVE-2024-12636.yaml |
+| CVE-2023-48788.yaml |
+| dtexploit-authdb-privilege-escalation.yaml |
+| wp-form-exploit.yaml |
+| http-request-smuggling.yaml |
+| webroot-enumeration.yaml |
+| Swagger.yaml |
+| CVE-2024-42327.yaml |
+| CVE-2024-55557.yaml |
+| CVE-2024-11972.yaml |
+| CVE-2024-53376.yaml |
