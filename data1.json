@@ -68836,5 +68836,10 @@
     "symfony-default-key-rce.yaml": "2024-12-29 02:37:54",
     "CVE-2024-11921.yaml": "2024-12-30 02:32:13",
     "CVE-2024-12238.yaml": "2024-12-30 02:32:13",
-    "jeeplus-cms-resetpassword-sqli.yaml": "2025-01-03 02:25:43"
+    "jeeplus-cms-resetpassword-sqli.yaml": "2025-01-03 02:25:43",
+    "founder-xinwencaibian-imageProxy-download.yaml": "2025-01-04 02:28:24",
+    "dahua-zhinengwulian-GetClassValue-rce.yaml": "2025-01-04 02:28:24",
+    "cloudlog-panel.yaml": "2025-01-04 02:28:24",
+    "i-librarian-panel.yaml": "2025-01-04 02:28:24",
+    "CVE-2024-12132.yaml": "2025-01-04 02:28:24"
 }
