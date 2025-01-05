@@ -19,23 +19,34 @@
 | CVE-2015 | 533 |
 | CVE-2016 | 257 |
 | CVE-2017 | 409 |
-| CVE-2018 | 524 |
+| CVE-2018 | 525 |
 | CVE-2019 | 760 |
-| CVE-2020 | 1095 |
-| CVE-2021 | 2200 |
-| CVE-2022 | 2968 |
+| CVE-2020 | 1093 |
+| CVE-2021 | 2203 |
+| CVE-2022 | 2966 |
 | CVE-2023 | 5146 |
-| CVE-2024 | 7981 |
-| Other | 26543 |
+| CVE-2024 | 7998 |
+| Other | 26542 |
 ## 近几天数量变化情况
-|2024-12-29 | 2024-12-30 | 2024-12-31 | 2025-01-01 | 2025-01-02 | 2025-01-03 | 2025-01-04|
+|2024-12-30 | 2024-12-31 | 2025-01-01 | 2025-01-02 | 2025-01-03 | 2025-01-04 | 2025-01-05|
 |--- | ------ | ------ | ------ | ------ | ------ | ---|
-|49653 | 49651 | 49651 | 49650 | 49652 | 49656 | 49662|
+|49651 | 49651 | 49650 | 49652 | 49656 | 49662 | 49678|
 ## 最近新增文件
 | templates name | 
 | --- |
-| founder-xinwencaibian-imageProxy-download.yaml |
-| dahua-zhinengwulian-GetClassValue-rce.yaml |
-| cloudlog-panel.yaml |
-| i-librarian-panel.yaml |
-| CVE-2024-12132.yaml |
+| lserp-FileUploadApi-DoWebUpload-uploadfile.yaml |
+| weaver-for-bbpress.yaml |
+| CVE-2024-12701.yaml |
+| CVE-2024-11733.yaml |
+| CVE-2024-12475.yaml |
+| CVE-2024-12279.yaml |
+| CVE-2024-12545.yaml |
+| CVE-2024-12237.yaml |
+| CVE-2024-10932.yaml |
+| CVE-2024-12221.yaml |
+| CVE-2024-11974.yaml |
+| CVE-2024-12195.yaml |
+| CVE-2024-12047.yaml |
+| CVE-2024-11930.yaml |
+| CVE-2024-12583.yaml |
+| CVE-2024-10957.yaml |
