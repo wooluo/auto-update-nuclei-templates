@@ -8,8 +8,9 @@ info:
     A uber phishing website was detected
   reference:
     - https://uber.com
+  metadata:
+    max-request: 1
   tags: phishing,uber,osint
-
 http:
   - method: GET
     path:
@@ -31,4 +32,4 @@ http:
       - type: dsl
         dsl:
           - '!contains(host,"uber.com")'
-# digest: 4a0a004730450221008f9f65a32789f3be3847bed6e6b8c380f9941116864265eff12be4e4433f3f530220714168cf8518010a1de336c28e50abe7f45545979078c2b0d39f5d5467ed2828:922c64590222798bb761d5b6d8e72950
+# digest: 490a004630440220151606c1d8f383845953e444fc943e4d23e36d6b8fbb634a2e3aa4fd7320d2650220064dd959a1a7c486bb9b50db3a0c5b5415100b318448bb38d181e818aa0cc318:922c64590222798bb761d5b6d8e72950
