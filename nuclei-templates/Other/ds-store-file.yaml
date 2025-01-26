@@ -7,8 +7,10 @@ info:
   reference:
     - https://github.com/lijiejie/ds_store_exp
   tags: exposure,files,ds_store,config
+  metadata:
+    max-request: 1
 
-requests:
+http:
   - method: GET
     path:
       - "{{BaseURL}}/.DS_Store"
