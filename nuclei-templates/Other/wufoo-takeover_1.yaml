@@ -1,5 +1,4 @@
 id: wufoo-takeover
-
 info:
   name: wufoo takeover detection
   author: pdteam
@@ -7,18 +6,11 @@ info:
   reference:
     - https://github.com/EdOverflow/can-i-take-over-xyz
   tags: takeover
-
 requests:
   - method: GET
     path:
       - "{{BaseURL}}"
-
-    matchers-condition: and
     matchers:
-      - type: dsl
-        dsl:
-          - Host != ip
-
       - type: word
         words:
           - Profile not found

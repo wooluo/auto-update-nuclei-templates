@@ -8,9 +8,8 @@ info:
     A dropbox phishing website was detected
   reference:
     - https://dropbox.com
-  metadata:
-    max-request: 1
   tags: phishing,dropbox,osint
+
 http:
   - method: GET
     path:
@@ -32,4 +31,4 @@ http:
       - type: dsl
         dsl:
           - '!contains(host,"dropbox.com")'
-# digest: 4b0a00483046022100ad89bb49526a35246fac37642896cd22a769b30180578c6f8e664004e379780e022100ae49d8847ddf437c3523fc00b6134b83b4cc22e60183ae2cab2050491b862afe:922c64590222798bb761d5b6d8e72950
+# digest: 4b0a00483046022100ca5e30d9273ad1381007db7872ca83e17f5950d89acf6153e455424c37a62c4c022100ed63cb32c38e43f5b276654471f71323929163a54becead516f1db5487a0e278:922c64590222798bb761d5b6d8e72950

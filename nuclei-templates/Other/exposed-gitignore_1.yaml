@@ -1,28 +1,18 @@
 id: exposed-gitignore
-
 info:
-  name: Gitignore Config - Detect
+  name: Exposed Gitignore
   author: TheZakMan,geeknik
   severity: info
-  description: Gitignore configuration information was detected.
+  tags: config,git,exposure
   reference:
     - https://twitter.com/pratiky9967/status/1230001391701086208
     - https://www.tenable.com/plugins/was/98595
-  classification:
-    cvss-metrics: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:N
-    cvss-score: 0.0
-    cwe-id: CWE-200
-  tags: exposure,tenable,config,git
-  metadata:
-    max-request: 3
-
-http:
+requests:
   - method: GET
     path:
       - "{{BaseURL}}/.gitignore"
       - "{{BaseURL}}/assets/.gitignore"
       - "{{BaseURL}}/includes/.gitignore"
-
     matchers-condition: and
     matchers:
       - type: dsl
@@ -30,10 +20,8 @@ http:
           - 'len(body) > 50'
           - 'status_code == 200'
         condition: and
-
       - type: word
         words:
-          - "MongoDB over HTTP on the native"
           - "application/javascript"
           - "application/x-javascript"
           - "application/json"
@@ -43,6 +31,6 @@ http:
           - "<script"
           - "<meta"
           - "image/"
-        part: response
+        part: all
         negative: true
         condition: or
