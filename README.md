@@ -22,71 +22,82 @@
 | CVE-2018 | 523 |
 | CVE-2019 | 759 |
 | CVE-2020 | 1096 |
-| CVE-2021 | 2199 |
-| CVE-2022 | 2967 |
+| CVE-2021 | 2201 |
+| CVE-2022 | 2966 |
 | CVE-2023 | 5146 |
-| CVE-2024 | 8621 |
+| CVE-2024 | 8622 |
 | CVE-2025 | 0 |
-| Other | 27398 |
+| Other | 27403 |
 ## 近几天数量变化情况
-|2025-01-21 | 2025-01-22 | 2025-01-23 | 2025-01-24 | 2025-01-25 | 2025-01-26 | 2025-01-27|
+|2025-01-22 | 2025-01-23 | 2025-01-24 | 2025-01-25 | 2025-01-26 | 2025-01-27 | 2025-01-28|
 |--- | ------ | ------ | ------ | ------ | ------ | ---|
-|50594 | 50648 | 50726 | 51052 | 51094 | 71930 | 51154|
+|50648 | 50726 | 51052 | 51094 | 71930 | 51154 | 51161|
 ## 最近新增文件
 | templates name | 
 | --- |
-| gnu-mailman_1.yaml |
-| front-page-misconfig_1.yaml |
-| phpmyadmin-sql.php-server_1.yaml |
-| jira-setup_1.yaml |
-| drupal_module-tfa-access-bypass_2.yaml |
-| clamav-unauth_3.yaml |
-| tomcat-pathnormalization_3.yaml |
-| wptouch-open-redirect-11594_1_1.yaml |
-| exposed-redis_2.yaml |
-| wp-automatic-plugin_1.yaml |
-| bravia-signage_2.yaml |
-| hp-switch-default-login-8035_2.yaml |
-| springboot-conditions_2.yaml |
-| wordpress-wordfence-lfi-11351_1.yaml |
-| flir-path-traversal-7523_1.yaml |
-| tikiwiki-cms_1.yaml |
-| socialgrid-plugin_1.yaml |
-| kettle-default-login_1.yaml |
-| open-stack-dashboard-login_4.yaml |
-| wordpress-bbpress-plugin-listing-11247_1.yaml |
-| wordpress-installer-log-11292_1.yaml |
-| teampass-ldap_1.yaml |
-| digital-ocean-phish_1.yaml |
-| sap-recon-detect_1.yaml |
-| readarr-dashboard-unauth_1.yaml |
-| kubeflow-dashboard-unauth-8515_1.yaml |
-| yonyou-u8cloud-hrss-xxe_1.yaml |
-| jeewms-lfi-8252_2.yaml |
-| phpMyAdmin-setup_1.yaml |
-| bullwark-momentum-lfi-808_2.yaml |
-| gocd-login_3.yaml |
-| wc-affiliate.yaml |
-| rconfig-file-upload_4.yaml |
-| liferay-jsonws_2.yaml |
-| axis-happyaxis_1.yaml |
-| aerohive-netconfig-ui-201_1.yaml |
-| expired-ssl_2.yaml |
-| xxe_1.yaml |
-| zox-news.yaml |
-| magento-downloader-panel_2.yaml |
-| teamwork-takeover_2.yaml |
-| jolokia-list_4.yaml |
-| caprover-default-login_1.yaml |
-| seeyon-unauth_3.yaml |
-| xxljob-default-login_1.yaml |
-| CVE-2024-11641.yaml |
-| CVE-2024-10574.yaml |
-| CVE-2024-10636.yaml |
-| CVE-2024-10633.yaml |
-| CVE-2024-10705.yaml |
-| CVE-2024-11090.yaml |
-| CVE-2024-11936.yaml |
-| CVE-2024-12334.yaml |
-| CVE-2024-10628.yaml |
-| CVE-2024-13505.yaml |
+| metadata-alibaba_1.yaml |
+| wp-symposium_1.yaml |
+| public-tomcat-manager_2.yaml |
+| sassy-social-share-10085_1.yaml |
+| metabase-detect-8804_2.yaml |
+| samsung-wlan-default-login-10017_1.yaml |
+| identity-services-engine_1.yaml |
+| epson-projector-detect_2.yaml |
+| flir-path-traversal-7522_1.yaml |
+| my-chatbot-xss_2.yaml |
+| crossdomain-xml-1268_1.yaml |
+| jira-unauthenticated-projectcategories-8332_1.yaml |
+| cnvd-2020-67113-1071_1.yaml |
+| wp-flagem-xss-11454_1.yaml |
+| wp-revslider-file-download_2.yaml |
+| unpatched-coldfusion_3.yaml |
+| ivanti-endpoint-manager.yaml |
+| deflogin_TASKalfa.yaml |
+| signatures_5.yaml |
+| shell-history_1.yaml |
+| thinkcmf-detection-10719_1.yaml |
+| sangfor-BA-rce_1.yaml |
+| jexboss-backdoor_4.yaml |
+| opencats-default-login_2.yaml |
+| ranger-default-login_1.yaml |
+| CNNVD-200705-315_1.yaml |
+| rancher-default-login_1.yaml |
+| elasticsearch5-log4j-rce_4.yaml |
+| clearpass-policy-manager_1.yaml |
+| ruijie-eg-rce-9926_1.yaml |
+| carel-bacnet-gateway-traversal-858_3.yaml |
+| netscalar-aaa-login-9047_1.yaml |
+| x_ui_weakpasswd_1.yaml |
+| manageengine-adaudit_2.yaml |
+| netgear-dgn-rce.yaml |
+| stackstorm-default-login-10529_1.yaml |
+| server-backup-manager-se-10159_1.yaml |
+| anima-takeover-318_1.yaml |
+| cnvd-2021-10543-1082_1.yaml |
+| remkon-manager-panel_1.yaml |
+| wp-whmcs-xss_1.yaml |
+| sitemap-detect_1.yaml |
+| wordpress-wordfence-lfi-11352_1.yaml |
+| vmware-vcenter-log4j-jndi-rce_3.yaml |
+| businessintelligence-default-login-814_2.yaml |
+| jenkins-stack-trace_3.yaml |
+| fuelcms-panel_2.yaml |
+| hashicorp-consul-rce-7894_1.yaml |
+| wp-prostore-open-redirect-11550_1.yaml |
+| blue-iris-login_1.yaml |
+| octoprint-login_4.yaml |
+| jeedom-detect-8251_1.yaml |
+| webflow-takeover_3.yaml |
+| yongyou_xxe_1.yaml |
+| wp-insert-php-xss_1.yaml |
+| oracle-ebs-bispgraph-file-access_1.yaml |
+| stem-audio-table-private-keys_2.yaml |
+| drupal-install_4.yaml |
+| age-public-key_1_1.yaml |
+| hp-color-laserjet-detect_1.yaml |
+| cnvd-2021-09650-1081_1.yaml |
+| finecms-sqli_1.yaml |
+| metersphere-plugin-rce_1.yaml |
+| default-glassfish-server-page-6853_1.yaml |
+| daybyday-panel_2.yaml |
+| wordpress-elementor-plugin-listing-11269_1.yaml |
