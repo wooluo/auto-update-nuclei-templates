@@ -21,126 +21,88 @@
 | CVE-2017 | 409 |
 | CVE-2018 | 523 |
 | CVE-2019 | 759 |
-| CVE-2020 | 1096 |
-| CVE-2021 | 2200 |
-| CVE-2022 | 2966 |
-| CVE-2023 | 5148 |
-| CVE-2024 | 8713 |
+| CVE-2020 | 1094 |
+| CVE-2021 | 2199 |
+| CVE-2022 | 2963 |
+| CVE-2023 | 5147 |
+| CVE-2024 | 8730 |
 | CVE-2025 | 0 |
-| Other | 27492 |
+| Other | 27503 |
 ## 近几天数量变化情况
-|2025-01-26 | 2025-01-27 | 2025-01-28 | 2025-01-29 | 2025-01-30 | 2025-01-31 | 2025-02-01|
+|2025-01-27 | 2025-01-28 | 2025-01-29 | 2025-01-30 | 2025-01-31 | 2025-02-01 | 2025-02-02|
 |--- | ------ | ------ | ------ | ------ | ------ | ---|
-|71930 | 51154 | 51161 | 51161 | 51208 | 51290 | 51342|
+|51154 | 51161 | 51161 | 51208 | 51290 | 51342 | 51363|
 ## 最近新增文件
 | templates name | 
 | --- |
-| tlp-food-menu.yaml |
-| tikiwiki-xss_1.yaml |
-| signatures_9.yaml |
-| exposed-gitignore-7304_1.yaml |
-| newsletter-open-redirect_2.yaml |
-| unauthenticated-nacos-access_4.yaml |
-| apache-druid-log4j_1.yaml |
-| panmicro-arbitrary-file-read_1.yaml |
-| drupal-detect_1.yaml |
-| unauthorized-h3csecparh-login_3.yaml |
-| wp-datatable.yaml |
-| jenkins-stack-trace_2.yaml |
-| signatures-10252_1.yaml |
-| ehive-objects-image-grid.yaml |
-| guten-free-options.yaml |
-| dell-openmanager-login_2.yaml |
-| symantec-messaging-gateway-10609_1.yaml |
-| sensly-online-presence.yaml |
-| akuiteo-panel_1.yaml |
-| springboot-log4j-rce_2.yaml |
-| landray-oa-replaceextend-rce_1.yaml |
-| frictionless.yaml |
-| wp-vault-lfi-11612_1.yaml |
-| reposilite-panel.yaml |
-| hybris-default-login_1_1.yaml |
-| azkaban-default-login-675_1.yaml |
-| ploxel.yaml |
-| slack-access-token_2.yaml |
-| wise-forms.yaml |
-| epson-web-control-detect-7242_2.yaml |
-| wpradio.yaml |
-| CNVD-2020-46552_4.yaml |
-| arl-default-login-537_1.yaml |
-| tube-video-ads-lite.yaml |
-| legull.yaml |
-| readymade-unilevel-sqli_1.yaml |
-| zabbix-default-login-11763_1_1.yaml |
-| wp-knews-xss-11488_1.yaml |
-| cloudstack-default-login_1.yaml |
-| lucee-rce_1.yaml |
-| check-git-availablity.yaml |
-| kyocera-m2035dn-lfi-8559_1.yaml |
-| amazon-mws-auth-token-value_2.yaml |
-| pikpikcussti_1.yaml |
-| missing-hsts_1.yaml |
-| otobo-open-redirect_2.yaml |
-| orbiteam-bscw-server-lfi-9404_3.yaml |
-| seo-redirection-xss_2.yaml |
-| live-2d.yaml |
-| opennms-log4j-jndi-rce_2.yaml |
-| drupal_module-apigee_edge-access-bypass_3.yaml |
-| wp-touch-slider.yaml |
-| wazuh-default-login_1.yaml |
-| chalet-montagne-com-tools.yaml |
-| jellyfin-default-login_1.yaml |
-| qihang-media-disclosure-9764_1.yaml |
-| permalink-finder.yaml |
-| grails-database-admin-console_4.yaml |
-| twenty-detect_1.yaml |
-| scriptcase-panel_1.yaml |
-| bems-api-lfi-711_1.yaml |
-| ni-woo-sales-commission.yaml |
-| sftp-config-exposure_2_1.yaml |
-| ruby-rail-storage_3.yaml |
-| sequoiadb-default-login_1.yaml |
-| fastbee-arbitrary-file-read_1.yaml |
-| frappe-framework-detect.yaml |
-| gosign-posts-slider-block.yaml |
-| signatures-10256_1.yaml |
-| ibm-advanced-system-management-8090_1.yaml |
-| webpagetest-ssrf_2.yaml |
-| wp-security-open-redirect_3.yaml |
-| sage-detect-9977_1.yaml |
-| oliver-library-lfi-9239_2.yaml |
-| coldfusion-debug-xss-1152_1.yaml |
-| fuji-xerox-default-login_1.yaml |
-| track-logins.yaml |
-| CVE-2024-13424.yaml |
-| CVE-2024-13399.yaml |
-| CVE-2024-13626.yaml |
-| CVE-2024-13157.yaml |
-| CVE-2024-13623.yaml |
-| CVE-2024-13603.yaml |
-| CVE-2024-13493.yaml |
-| CVE-2024-13625.yaml |
-| CVE-2024-13767.yaml |
-| CVE-2024-13530.yaml |
-| CVE-2024-13543.yaml |
-| CVE-2024-11886.yaml |
-| CVE-2024-13492.yaml |
-| CVE-2024-13352.yaml |
-| CVE-2024-13216.yaml |
-| CVE-2024-12586.yaml |
-| CVE-2024-13472.yaml |
-| CVE-2024-13463.yaml |
-| CVE-2024-12415.yaml |
-| CVE-2024-13415.yaml |
-| CVE-2024-12321.yaml |
-| CVE-2024-13662.yaml |
-| CVE-2024-12037.yaml |
-| CVE-2024-13504.yaml |
-| CVE-2024-13608.yaml |
-| CVE-2024-12267.yaml |
-| CVE-2024-13396.yaml |
-| CVE-2024-10867.yaml |
-| CVE-2024-13397.yaml |
-| CVE-2024-13566.yaml |
-| CVE-2024-13627.yaml |
-| CVE-2024-13717.yaml |
+| site-search-360.yaml |
+| CNVD-2021-49104_2.yaml |
+| jolokia-info-disclosure_2.yaml |
+| tongdaoa-auth-bypass_1.yaml |
+| stem-audio-table-private-keys-10536_1_1.yaml |
+| signatures-10267_1.yaml |
+| elgg-sqli_1.yaml |
+| cleo-detect_1.yaml |
+| jolokia-8369_1.yaml |
+| CNT-Server-Stats-Disclosure_2_1.yaml |
+| signatures_10.yaml |
+| webeditors-11128_1.yaml |
+| unauthorized-hp-officepro-printer-10950_1_1.yaml |
+| security-txt_1.yaml |
+| custom-related-posts.yaml |
+| oracle-ebs-xss-9377_1.yaml |
+| getresponse-takeover-7608_1.yaml |
+| environment-rb_2.yaml |
+| wp-blogroll-fun-xss_3.yaml |
+| vmware-cloud-xss_1.yaml |
+| canal-default-login_1.yaml |
+| tongda-action-uploadfile_1.yaml |
+| apache-druid-unauth_1.yaml |
+| kyocera-m2035dn-lfi-8558_2.yaml |
+| qihang-media-disclosure-9764_2.yaml |
+| web-ftp-detect-11136_1.yaml |
+| owasp-juice-shop-detected-9415_1.yaml |
+| wordpress-wordfence-xss-11360_2.yaml |
+| gocd-login_4.yaml |
+| public-tomcat-manager_3.yaml |
+| elex-helpdesk-customer-support-ticket-system.yaml |
+| yzmcms-detect-11751_1_1.yaml |
+| woocommerce-multi-locations-inventory-management.yaml |
+| CNVD-2019-19299_1.yaml |
+| animategl.yaml |
+| wp-arforms-listing-11415_1.yaml |
+| blue-yonder-panel_1.yaml |
+| pieregister-open-redirect_3.yaml |
+| zend-v1-xss_1.yaml |
+| mthemeunus-lfi_1.yaml |
+| music-store-open-redirect_3.yaml |
+| signatures_8.yaml |
+| wptouch-xss_2_1.yaml |
+| log4j-fuzz-head-poc-v2_3.yaml |
+| dolphinscheduler-default-login_3.yaml |
+| ws-ftp-ini_3.yaml |
+| vince-panel_1.yaml |
+| hongdian-default-login-7997_2.yaml |
+| solr-query-dashboard-10369_1.yaml |
+| netflow-default-login_1.yaml |
+| unauth-etherpad_2_1.yaml |
+| w3c-total-cache-ssrf-11080_1.yaml |
+| drupal-user-enum-ajax-7110_1.yaml |
+| CVE-2024-12620.yaml |
+| CVE-2024-13547.yaml |
+| CVE-2024-12825.yaml |
+| CVE-2024-13612.yaml |
+| CVE-2024-11829.yaml |
+| CVE-2024-12041.yaml |
+| CVE-2024-13429.yaml |
+| CVE-2024-13341.yaml |
+| CVE-2024-13428.yaml |
+| CVE-2024-12184.yaml |
+| CVE-2024-11780.yaml |
+| CVE-2024-13343.yaml |
+| CVE-2024-13371.yaml |
+| CVE-2024-13775.yaml |
+| CVE-2024-12171.yaml |
+| CVE-2024-13372.yaml |
+| CVE-2024-13425.yaml |
+| CVE-2024-13651.yaml |

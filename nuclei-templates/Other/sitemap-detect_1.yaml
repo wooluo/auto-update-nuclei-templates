@@ -2,13 +2,17 @@ id: sitemap-detect
 
 info:
   name: Sitemap Detection
-  author: houdinis,Arqsz
+  author: houdinis
   severity: info
   description: |
     A sitemap is a file where you provide information about the pages, videos, and other files on your site, and the relationships between them.
-  tags: basic,remote,sitemap
+  metadata:
+    max-request: 3
+    verified: true
+    google-query: intext:"sitemap" filetype:txt,filetype:xml inurl:sitemap,inurl:"/sitemap.xsd" ext:xsd
+  tags: misc,generic,sitemap
 
-requests:
+http:
   - method: GET
     path:
       - "{{BaseURL}}/sitemap.xml"
@@ -20,17 +24,13 @@ requests:
     matchers:
       - type: word
         words:
-          - "sitemap"
-          - "<?xml"
+          - "sitemap>"
         case-insensitive: true
-        condition: or
 
       - type: word
         part: header
         words:
           - 'application/xml'
-          - 'text/xml'
-        condition: or
 
       - type: status
         status:
