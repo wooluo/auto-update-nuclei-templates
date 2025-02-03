@@ -1,0 +1,35 @@
+id: reddit-phish
+
+info:
+  name: reddit phishing Detection
+  author: rxerium
+  severity: info
+  description: |
+    A reddit phishing website was detected
+  reference:
+    - https://reddit.com
+  metadata:
+    max-request: 1
+  tags: phishing,reddit,osint
+http:
+  - method: GET
+    path:
+      - "{{BaseURL}}"
+
+    host-redirects: true
+    max-redirects: 2
+
+    matchers-condition: and
+    matchers:
+      - type: word
+        words:
+          - 'Reddit - Dive into anything'
+
+      - type: status
+        status:
+          - 200
+
+      - type: dsl
+        dsl:
+          - '!contains(host,"reddit.com")'
+# digest: 4a0a00473045022023dd08c50c1210221859a78b9bd0b877f21a0b5263ac3e3d2ef424cf34347753022100bee5d73d52d906f7645b7a068a4b60bd8868e27ed650bd140a6295c9d140a6e6:922c64590222798bb761d5b6d8e72950
