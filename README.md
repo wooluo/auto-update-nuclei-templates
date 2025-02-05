@@ -20,58 +20,82 @@
 | CVE-2016 | 257 |
 | CVE-2017 | 409 |
 | CVE-2018 | 523 |
-| CVE-2019 | 758 |
+| CVE-2019 | 759 |
 | CVE-2020 | 1094 |
-| CVE-2021 | 2203 |
+| CVE-2021 | 2201 |
 | CVE-2022 | 2966 |
-| CVE-2023 | 5149 |
-| CVE-2024 | 8733 |
+| CVE-2023 | 5147 |
+| CVE-2024 | 8744 |
 | CVE-2025 | 0 |
-| Other | 27499 |
+| Other | 27531 |
 ## 近几天数量变化情况
-|2025-01-29 | 2025-01-30 | 2025-01-31 | 2025-02-01 | 2025-02-02 | 2025-02-03 | 2025-02-04|
+|2025-01-30 | 2025-01-31 | 2025-02-01 | 2025-02-02 | 2025-02-03 | 2025-02-04 | 2025-02-05|
 |--- | ------ | ------ | ------ | ------ | ------ | ---|
-|51161 | 51208 | 51290 | 51342 | 51363 | 51361 | 51370|
+|51208 | 51290 | 51342 | 51363 | 51361 | 51370 | 51410|
 ## 最近新增文件
 | templates name | 
 | --- |
-| CVE-2021-45793.yaml |
-| coldfusion-debug-xss-1152_1_1.yaml |
-| bitrix-open-redirect_2.yaml |
-| stackstorm-default-login-10529_2.yaml |
-| sekolahku-cms-detect.yaml |
-| httpbin-open-redirect_2.yaml |
-| telecom-gateway-default-login_4.yaml |
-| dufs-detect_1.yaml |
-| panos-default-login-9454_1.yaml |
-| jolokia-info-disclosure_4.yaml |
-| attu-detect.yaml |
-| hivemanager-login-panel_3.yaml |
-| churchope-lfi-916_2.yaml |
-| hybris-default-login_4.yaml |
-| vlc-player-phish_1.yaml |
-| linksys-wifi-login_2.yaml |
-| dolphinscheduler-default-login-7072_2.yaml |
-| milvus-detect.yaml |
-| kubernetes-mirantis-8539_1.yaml |
-| wp-plugin-lifterlms-11533_1.yaml |
-| netsus-default-login-9060_2.yaml |
-| visual-tools-dvr-rce-11032_1.yaml |
-| aem-xss-childlist_2.yaml |
-| dir-traversal_2_1.yaml |
-| newrelic-pixie-deploy-key_1_1.yaml |
-| rancher-default-login-9815_2.yaml |
-| general-tokens-7581_1.yaml |
-| default-asp-net-page-6825_1.yaml |
-| slims-9-xss-index.yaml |
-| oracle-cgi-printenv_1.yaml |
-| datagerry-panel.yaml |
-| netsweeper-rxss-9065_1.yaml |
-| hb-audio-lfi-7912_2.yaml |
-| panasonic-network-management_4.yaml |
-| rusty-joomla_1.yaml |
-| squirrelmail-lfi-10518_2.yaml |
-| ecology-arbitrary-file-upload_3.yaml |
-| CNVD-2021-30167_4.yaml |
-| jitsi-meet-8342_1.yaml |
-| CVE-2024-50967.yaml |
+| springboot-beans_1.yaml |
+| hue-default-credential_4.yaml |
+| wp-iwp-client-listing-11476_1.yaml |
+| elfinder-path-traversal-7203_1.yaml |
+| boombox-theme-extensions.yaml |
+| fare-calculator.yaml |
+| hesabfa-accounting.yaml |
+| lansweeper-login_2.yaml |
+| gocd-login_2.yaml |
+| internal-link-builder.yaml |
+| joomla-manifest-file_1.yaml |
+| extreme-netconfig-ui-7371_1.yaml |
+| flashcounter.yaml |
+| forge.yaml |
+| xerox7-default-login_3.yaml |
+| airflow-default-login-234_2.yaml |
+| traveler-layout-essential-for-elementor.yaml |
+| document.yaml |
+| full-circle.yaml |
+| wordpress-gtranslate-plugin-listing-11282_1.yaml |
+| icewarp-open-redirect_3.yaml |
+| digitimber-cpanel-integration.yaml |
+| wordpress-signature.yaml |
+| morkva-ua-shipping.yaml |
+| unlimited-page-sidebars.yaml |
+| cf7-dynamics-crm.yaml |
+| oshine-modules.yaml |
+| post-carousel-slider.yaml |
+| wp-finder-xss-11448_1.yaml |
+| brandfolder-open-redirect-782_1.yaml |
+| securityspy-detect-10119_1.yaml |
+| signatures_13.yaml |
+| scroll-styler.yaml |
+| pollbot-redirect_2.yaml |
+| ibm-mqseries-default-login-8108_1.yaml |
+| shopsite-plugin.yaml |
+| springboot_heapdump_1.yaml |
+| hadoop-unauth-rce_2_1.yaml |
+| cisco-asa-panel_1.yaml |
+| super-seo-content-cloner.yaml |
+| metadata-google-8820_2.yaml |
+| socialv.yaml |
+| issuu-panel.yaml |
+| gitlab-rce-7693_2.yaml |
+| tags-to-meta-keywords.yaml |
+| traveler-code.yaml |
+| pgadmin-exposure-9490_1.yaml |
+| basic-cors-flash_2.yaml |
+| CVE-2024-11133.yaml |
+| CVE-2024-13607.yaml |
+| CVE-2024-11134.yaml |
+| CVE-2024-13403.yaml |
+| CVE-2024-12597.yaml |
+| CVE-2024-11132.yaml |
+| CVE-2024-13514.yaml |
+| CVE-2024-13699.yaml |
+| CVE-2024-12046.yaml |
+| CVE-2024-50500.yaml |
+| CVE-2024-13356.yaml |
+| CVE-2024-13529.yaml |
+| CVE-2024-13733.yaml |
+| CVE-2024-12859.yaml |
+| CVE-2024-13510.yaml |
+| CVE-2024-44055.yaml |
