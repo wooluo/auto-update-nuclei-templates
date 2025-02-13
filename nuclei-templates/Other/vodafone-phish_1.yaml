@@ -8,9 +8,8 @@ info:
     A vodafone phishing website was detected
   reference:
     - https://vodafone.co.uk
-  metadata:
-    max-request: 1
   tags: phishing,vodafone,osint
+
 http:
   - method: GET
     path:
@@ -32,4 +31,4 @@ http:
       - type: dsl
         dsl:
           - '!contains(host,"vodafone.co.uk")'
-# digest: 4a0a0047304502205b6c94db4db59510a6e4c3bed139544ee016773c990f5c30ecd3014921ec540402210098760d08faaec517d0b662e37f72c353f9a08e26ffeb7fd24ec7f213778294a5:922c64590222798bb761d5b6d8e72950
+# digest: 490a0046304402200aaf0023337b2a4ace0a2977bd9fd22e250689b7be123bd4e8c9059697dce31802206d089181e5108f39fe7b6a5de0be33539dc3ad4beac37bd6073521435c8c0c2c:922c64590222798bb761d5b6d8e72950

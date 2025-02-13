@@ -1,5 +1,4 @@
 id: netsus-default-login
-
 info:
   name: NetSUS Server Default Login
   author: princechaddha
@@ -12,8 +11,7 @@ info:
   metadata:
     shodan-query: http.title:"NetSUS Server Login"
   tags: netsus,default-login
-
-http:
+requests:
   - raw:
       - |
         POST /webadmin/index.php HTTP/1.1
@@ -27,7 +25,6 @@ http:
         - webadmin
       password:
         - webadmin
-
     matchers-condition: and
     matchers:
       - type: word
@@ -36,7 +33,6 @@ http:
           - 'Location: dashboard.php'
           - 'PHPSESSID='
         condition: and
-
       - type: status
         status:
           - 302
