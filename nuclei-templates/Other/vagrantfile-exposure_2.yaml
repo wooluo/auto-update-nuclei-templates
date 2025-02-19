@@ -9,7 +9,7 @@ info:
     shodan-query: html:"Vagrantfile"
   tags: config,exposure,vagrant,oss,files
 
-http:
+requests:
   - method: GET
     path:
       - "{{BaseURL}}/Vagrantfile"
