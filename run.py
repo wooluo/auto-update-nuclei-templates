@@ -41,21 +41,50 @@ def append_github_links(file_path, links):
 # 搜索项目
 def search_projects():
     token = os.getenv("GH_TOKEN", "")
+    if not token:
+        print("Error: GH_TOKEN environment variable is required")
+        return []
+        
     headers = {
-        "Authorization": f"{token}",
-        "Connection": "close",
-        "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36",
+        "Authorization": f"token {token}",
+        "User-Agent": "Mozilla/5.0",
+        "Accept": "application/vnd.github.v3+json"
     }
-    # Send a search request to GitHub API
+    
+    projects = []
     search_url = "https://api.github.com/search/repositories?q=nuclei-templates&sort=updated&page=1&per_page=100"
-    response = requests.get(search_url, headers=headers,
-                            verify=False, allow_redirects=False).json()
-    print(response)
-
-    # Extract the list of projects from the response
-    projects = [i['html_url'] for i in response.get("items", [])]
-
-    # Return the list of projects
+    max_retries = 3
+    
+    for attempt in range(max_retries):
+        try:
+            time.sleep(1.0)  # 避免速率限制
+            response = requests.get(
+                search_url,
+                headers=headers,
+                timeout=30,
+                verify=False
+            )
+            
+            if response.status_code == 403:
+                reset_time = int(response.headers.get('X-RateLimit-Reset', time.time() + 60))
+                sleep_time = max(1, reset_time - time.time())
+                print(f"GitHub API rate limit exceeded, sleeping for {sleep_time:.1f} seconds")
+                time.sleep(sleep_time)
+                continue
+                
+            if response.status_code == 401:
+                print("GitHub API authentication failed. Please check your GH_TOKEN")
+                return []
+                
+            response.raise_for_status()
+            data = response.json()
+            projects = [item['html_url'] for item in data.get("items", [])]
+            break
+        except Exception as e:
+            if attempt == max_retries - 1:
+                print(f"Failed to search projects after {max_retries} attempts: {str(e)}")
+            time.sleep(2 ** attempt)
+    
     return projects
 
 # 校验yaml文件
